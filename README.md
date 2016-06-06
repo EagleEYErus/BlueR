@@ -1,4 +1,4 @@
-# BlueR(ru)
+# BlueR (ru)
 
 Эта документация создана, чтобы объяснить, как собрать BLE светодиодную ленту на базе Arduino. 
 
@@ -29,6 +29,6 @@
 
 Приложение в [App Store](https://appsto.re/ru/JtyDcb.i)
 
-# BlueR(en)
+# BlueR (en)
 
 ## Coming Soon
